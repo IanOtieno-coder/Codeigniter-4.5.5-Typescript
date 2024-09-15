@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+      "outDir": "public/assets/js",
+      "strict": true,
+      "esModuleInterop": true
+    },
+    "include": ["./public/assets/src/**/*.ts"],
+    "exclude": ["node_modules"]
+  }

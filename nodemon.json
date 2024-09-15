@@ -1,0 +1,6 @@
+{
+    "watch": ["webpack.config.js"],
+    "exec": "npx webpack --config webpack.config.js --watch",
+    "ext": "js"
+  }
+  
